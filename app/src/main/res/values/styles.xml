@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Turuncu metin stili -->
+    <style name="OrangeText">
+        <item name="android:textColor">#15283A</item> <!-- Turuncu rengi -->
+        <item name="android:textSize">16sp</item> <!-- Yazı boyutunu ayarlayın (sp birimini kullanın) -->
+        <item name="android:textStyle">bold</item> <!-- Kalın yazı stilini ekleyin -->
+    </style>
+
+    <style name="AvesText">
+        <item name="android:textColor">#3F51B5</item> <!-- Turuncu rengi -->
+        <item name="android:textSize">22sp</item> <!-- Yazı boyutunu ayarlayın (sp birimini kullanın) -->
+        <item name="android:textStyle">bold</item> <!-- Kalın yazı stilini ekleyin -->
+    </style>
+
+    <!-- Turuncu düğme stili -->
+    <style name="OrangeButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">#F44336</item> <!-- Turuncu arka plan rengi -->
+    </style>
+
+</resources>
